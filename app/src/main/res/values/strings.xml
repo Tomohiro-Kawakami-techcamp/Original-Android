@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Original</string>
+
+    <string name="white">白</string>
+    <string name="red">赤</string>
+    <string name="green">緑</string>
+    <string name="blue">青</string>
+    <string name="purple">紫</string>
+    <string name="pink">ピンク</string>
+    <string name="orange">オレンジ</string>
+    <string name="yellow">黄色</string>
 </resources>

@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
-    public boolean onCreateOptionsItemSelected(MenuItem item) {
+    public boolean onOptionsItemSelected(MenuItem item) {
         View view = findViewById(R.id.activity_main);
         switch (item.getItemId()){
             case R.id.red:
